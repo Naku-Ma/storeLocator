@@ -24,7 +24,7 @@ Store Locator Maps was build to apply my knowledge of learning Javascript, HTML 
 
 ## Link
 
-Check this out: [storeLocator](https://naku-ma.github.io/storeLocator/)
+Check this out: [storeLocator](https://nakullio.github.io/storeLocator/)
 
 ## Technologies
 
